@@ -1,0 +1,5 @@
+Pojedini objekti su izbaceni iz igrice, ili zamijenjeni. Tacnije:
+-solja nije ubacena
+-vaza koja se vidi na slici "soba2" je zamijenjena sa vazom sa slike "vaza"
+
+Takodjer, pojedine teksture se neznatno razlikuju u igrici.
